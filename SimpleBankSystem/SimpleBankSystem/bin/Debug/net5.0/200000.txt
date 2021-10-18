@@ -1,0 +1,25 @@
+First Name|Tony
+Last Name|Will
+Address|George St. Sydney
+Phone|1234245365
+Email|lawrencce789@gmail.com
+AccountNo|200000
+Balance|9500
+29.09.2021|Deposit|100|100
+29.09.2021|Deposit|1000|1100
+29.09.2021|Deposit|200|1300
+29.09.2021|Deposit|200|1500
+29.09.2021|Deposit|200|1700
+29.09.2021|Withdraw|300|1400
+29.09.2021|Withdraw|300|1100
+29.09.2021|Deposit|1000|2100
+29.09.2021|Deposit|2000|4100
+29.09.2021|Withdraw|100|4000
+29.09.2021|Withdraw|500|3500
+29.09.2021|Deposit|1000|4500
+29.09.2021|Deposit|2000|6500
+29.09.2021|Deposit|1000|7500
+29.09.2021|Withdraw|500|7000
+29.09.2021|Withdraw|500|6500
+29.09.2021|Deposit|2000|8500
+29.09.2021|Deposit|1000|9500

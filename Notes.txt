@@ -1,0 +1,2 @@
+This Console Application can run on .NET Core and using .NET 5.0 Framework.
+New Created file will be saved in \SimpleBankSystem\SimpleBankSystem\bin\Debug\net5.0
